@@ -40,6 +40,8 @@ void scopeExample(int paramVariable) {
     print(ifBlockVariable);
   }
     // print(ifBlockVariable);
+
+    print('End of program');
 }
 
 double deliveryCost(
