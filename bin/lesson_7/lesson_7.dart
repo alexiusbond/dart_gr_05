@@ -30,6 +30,8 @@ void main() {
       (element as Fly).fly(100);
     }
   }
+
+  // the end
 }
 
 void drawAllVariants(Drawable d) {
